@@ -74,3 +74,4 @@ typings/
 
 # Executable builds
 release-builds
+dist
